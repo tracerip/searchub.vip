@@ -1,5 +1,5 @@
 User-Agent: *
-crawl-delay: 1
+Crawl-delay: 1
 Content-signal: search=yes,ai-train=yes
 Allow: /
 
